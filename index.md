@@ -18,4 +18,4 @@ My Github page is https://github.com/lukeverano
 
 * Lab 6, Part 1
   
-  This lab was my favorite to do, working on shell commands was fun. Also, learning about how to use element and index about the sandwich was simple in the lectures
+  This lab was my favorite to do, working on shell commands was fun. Also, learning about how to use element and index about the sandwich was simple in the lectures.
