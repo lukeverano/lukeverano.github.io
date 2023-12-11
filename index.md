@@ -1,8 +1,12 @@
-# Luke Verano's Portfolio
+# Hello World
 
-I am a compute sciene student at CSUF and I expect to graduate in 2026
+This is my home page! My name is Luke Verano and I am a student at California State University, Fullerton and my major is Computer Science
 
-## Favorite CPSC 120L Labs
+## Computer Science Projects
+
+My Github page is https://github.com/lukeverano
+
+### CPSC 120
 
 * Lab 1
   
